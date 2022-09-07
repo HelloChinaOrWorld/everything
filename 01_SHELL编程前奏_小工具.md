@@ -2,15 +2,15 @@
 typora-copy-images-to: pictures
 typora-root-url: pictures
 ---
-[toc]
+ [toc]
 # 本节课程目标
 
 - 了解shell中的通配符
 - 熟悉grep、cut、sort等小工具和shell中的通配符的使用
 
-#一、文本处理工具
+# 一、文本处理工具
 
-##1. ==grep工具==
+## 1. ==grep工具==
 
 > grep是**==行==**过滤工具；用于根据关键字进行行过滤
 
@@ -86,7 +86,7 @@ source ~/.bashrc
 # grep -C 5 mail passwd 					匹配包含mail关键字及其前后5行
 ```
 
-##2. ==cut工具==
+## 2. ==cut工具==
 
 > cut是**==列==**截取工具，用于列的截取
 
