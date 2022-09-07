@@ -172,7 +172,7 @@ cut -d: -f2 /etc/inittab |tail -1
 # sort -u 2.txt 
 ~~~
 
-##4.uniq工具
+## 4.uniq工具
 
 > uniq用于去除**==连续==**的**==重复==**行
 
